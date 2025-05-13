@@ -60,7 +60,7 @@ Follow these steps to set up the project locally on your machine.
 
 ```bash
 git clone https://github.com/adrianhajdin/travel-agency-dashboard.git
-cd travel-agency-dashboard
+cd travel-agency
 ```
 
 **Installation**
