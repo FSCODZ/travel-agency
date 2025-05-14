@@ -19,7 +19,7 @@ const RootNavbar = () => {
             <header className="root-nav wrapper">
                 <Link to='/' className="link-logo">
                     <img src="/assets/icons/logo.svg" alt="logo" className="size-[30px]" />
-                    <h1>Visitor</h1>
+                    <h1>VisJourney</h1>
                 </Link>
 
                 <aside>

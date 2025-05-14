@@ -184,7 +184,7 @@ const TravelPage = ({ loaderData }: Route.ComponentProps) => {
                             alt="logo"
                             className="size-[30px]"
                         />
-                        <h1>Visitor</h1>
+                        <h1>VisJourney</h1>
                     </Link>
 
                     <div>

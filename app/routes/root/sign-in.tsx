@@ -26,13 +26,13 @@ const SignIn = () => {
                                 className="size-[30px]"
                             />
                         </Link>
-                        <h1 className="p-28-bold text-dark-100">Visitor</h1>
+                        <h1 className="p-28-bold text-dark-100">VisJourney</h1>
                     </header>
 
                     <article>
-                        <h2 className="p-28-semibold text-dark-100 text-center">Start Your Travel Journey</h2>
+                        <h2 className="p-28-semibold text-dark-100 text-center">Start Your Travel</h2>
 
-                        <p className="p-18-regular text-center text-gray-100 !leading-7">Sign in with Google to manage destinations, itineraries, and user activity with ease.</p>
+                        <p className="p-18-regular text-center text-gray-100 !leading-7">Sign in with Google to manage destinations, itineraries, and user activity with a travelling feeling.</p>
                     </article>
 
                     <ButtonComponent
