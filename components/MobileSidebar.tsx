@@ -21,7 +21,7 @@ const MobileSidebar = () => {
                         className="size-[30px]"
                     />
 
-                    <h1>VisJourney</h1>
+                    <h1>NextTrip</h1>
                 </Link>
 
                 <button onClick={toggleSidebar}>

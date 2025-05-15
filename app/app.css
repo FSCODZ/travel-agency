@@ -146,7 +146,7 @@
       @apply flex flex-col bg-linear100 bg-cover;
 
       section {
-        @apply py-48 justify-center items-start flex flex-col gap-6;
+        @apply py-55 justify-center items-start flex flex-col gap-6;
 
         article {
           @apply flex flex-col w-full md:max-w-[520px] gap-3.5;

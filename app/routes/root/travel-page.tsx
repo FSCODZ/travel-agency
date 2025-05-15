@@ -78,7 +78,7 @@ const TravelPage = ({ loaderData }: Route.ComponentProps) => {
                             </h1>
 
                             <p className="text-dark-100">
-                                Customize your travel itinerary in minutes—pick your destination, set your preferences, and explore with confidence.
+                                Customize your new travel itinerary in minutes—pick your destination, set your preferences and enjoy!
                             </p>
                         </article>
 
@@ -151,7 +151,7 @@ const TravelPage = ({ loaderData }: Route.ComponentProps) => {
             </section>
 
             <section id="trips" className="py-20 wrapper flex flex-col gap-10">
-                <Header title="Handpicked Trips" description="Browse well-planned trips designes for your travel style" />
+                <Header title="Trips" description="Browse well-planned trips designes for your travel style" />
 
                 <div className="trip-grid">
                     {trips.map((trip) => (
@@ -184,7 +184,7 @@ const TravelPage = ({ loaderData }: Route.ComponentProps) => {
                             alt="logo"
                             className="size-[30px]"
                         />
-                        <h1>VisJourney</h1>
+                        <h1>NextTrip</h1>
                     </Link>
 
                     <div>
