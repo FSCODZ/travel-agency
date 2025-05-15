@@ -1,5 +1,5 @@
 
-  <h3 align="center">Travel Agency Platform</h3>
+  <h3 align="center">NextTrip</h3>
 
 
 </div>
@@ -8,13 +8,12 @@
 
 1. ⚙️ [Tech Stack](#tech-stack)
 2. 🔋 [Features](#features)
-3. 🤸 [Quick Start](#quick-start)
 
 
 
 ## <a name="introduction">🤖 Introduction</a>
 
-A modern travel agency platform with an admin dashboard and public site. Generate AI-powered trip itineraries based on country, travel style, interests, group type, and budget — and book trips with ease.
+A modern travel agency platform with an admin dashboard and public site. Generate AI-powered trip itineraries based on country, travel style, interests, group type, and budget — and book trips easy!
 
 
 
@@ -52,49 +51,5 @@ A modern travel agency platform with an admin dashboard and public site. Generat
 
 and many more, built for scalability and a smooth user experience.
 
-## <a name="quick-start">🤸 Quick Start</a>
 
-Follow these steps to set up the project locally on your machine.
-
-**Cloning the Repository**
-
-```bash
-git clone https://github.com/adrianhajdin/travel-agency-dashboard.git
-cd travel-agency
-```
-
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
-npm install
-```
-
-**Set Up Environment Variables**
-
-Create a new file named `.env` in the root of your project and add the following content:
-
-```env
-VITE_SYNCFUSION_LICENSE_KEY=
-VITE_APPWRITE_PROJECT_ID=
-VITE_APPWRITE_API_ENDPOINT=
-VITE_APPWRITE_API_KEY=
-VITE_APPWRITE_DATABASE_ID=
-VITE_APPWRITE_USERS_COLLECTION_ID=
-VITE_APPWRITE_ITINERARY_COLLECTION_ID=
-STRIPE_SECRET_KEY=
-GEMINI_API_KEY=
-UNSPLASH_ACCESS_KEY="
-VITE_BASE_URL="http://localhost:5173"
-```
-
-
-**Running the Project**
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173/) in your browser to view the project.
 
